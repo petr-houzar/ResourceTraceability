@@ -31,4 +31,20 @@ public class Sample {
     {
 
     }
-}
+   /**
+    * Mixed style links, complex pasing examples
+    * Linked to @wi test/RT-478
+    * Linked to {@wi test/RT-478} and {@wi test/RT-478:100}
+    * Linked to {@wi test/RT-478 some message
+    * Continue
+    * Continue further} and {@wi test/RT-478}
+    * Linked to {@wi test/RT-478} and @wi test/RT-478 last message
+    * Another content
+    */
+    public FixtureSample()
+    {
+
+    }
+
+	
+	}
