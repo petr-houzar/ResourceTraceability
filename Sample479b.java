@@ -3,7 +3,7 @@ package com.siemens.polarion.pack;
 
 /**
   * Defined formats:
-  * Full @wi.implements test/RT-479:1000 message
+  * Full @wi.implements test/RT-478 message
   * No revision @wi.implements test/RT-479 message
   * And no project @wi.implements RT-479 message
   * And no role @wi RT-479 message
@@ -41,7 +41,7 @@ public class Sample {
     * Linked to {@wi test/RT-478} and @wi test/RT-478 last message
     * Another content
     */
-    public FixtureSample()
+    public FixtureSample2()
     {
 
     }
